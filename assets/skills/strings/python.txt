@@ -1,0 +1,1 @@
+Utilized during my CO-OP experiences at MockWit and Deltrax Machining, personal projects involving machine learning, and through the Django framework.

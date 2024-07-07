@@ -1,0 +1,7 @@
+• Designed and implemented cross platform (iOS & Android) mobile application features, utilizing the Flutter framework.
+• Designed and implemented complex mobile app architectures, optimizing performance and user experience through detailed design choices, and providing technical support across development, deployment, and maintenance phases.
+• Interfaced directly with stakeholders to identify requirements, translating them into actionable development plans, and proactively mitigating potential risks to surpass industry standards and client expectations.
+• Utilized agile methodologies to manage the entire app development lifecycle, improving team efficiency and app quality through iterative design and feedback processes.
+• Conducted regular project meetings to review progress, assess budget and timeline adherence, and provide updates to senior management using JIRA and other similar tools.
+• Utilized backend Firebase libraries to implement authentication and data manipulation.
+• Designed and implemented GCP cloud functions for backend support

@@ -1,0 +1,5 @@
+• Utilized Flask to develop APIs, enabling seamless communication between frontend and backend of web applications.
+• Developed server-side logic using programming languages like Python, Node.js, and Java.
+• Utilized databases (e.g., MySQL, MongoDB) to store and retrieve data for dynamic web applications.
+• Implemented Firebase Authentication to enable secure and seamless user sign-up, sign-in, and password reset functionalities.
+• Conducted thorough testing of web applications, identifying and resolving bugs to ensure high-quality software

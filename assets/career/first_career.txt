@@ -1,0 +1,4 @@
+• Developed code to perform CRUD (Create, Read, Update, Delete) operations on MySQL Workbench.
+• Developed class-based views in Django for handling complex business logic and improving code maintainability.
+• Designed and implemented responsive and user-friendly web interfaces using HTML, CSS, and JavaScript.
+• Utilized debugging tools to troubleshoot and optimize code performance.
