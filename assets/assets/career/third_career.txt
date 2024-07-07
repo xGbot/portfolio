@@ -1,0 +1,9 @@
+• Collaborated with senior developers on various projects, contributing to code reviews, debugging, and feature implementations, ensuring high quality software deliverables.
+• Developed and tested modules for mobile and web applications, enhancing functionality and user experience while adhering to project
+specifications and timelines.
+• Participated in team meetings to discuss project goals, progress, and challenges, gaining valuable insights into software development processes and project management.
+• Gained experience with containers, orchestration software, and cloud platforms, enhancing deployment and operational capabilities.
+• Acquired knowledge and experience in automating infrastructure, testing, and deployments using tools like Jenkins, Puppeteer, Selenium, Playwright, Cypress, or similar automation frameworks.
+• Utilized agile methodologies to contribute to the product development lifecycle, fostering a collaborative and efficient work environment through regular feedback and iteration.
+• Gained proficiency in multiple programming languages including Python, Java, JavaScript, SQL, and HTML.
+• Utilized the React Native framework to develop a responsive front end, to improve user engagement.
